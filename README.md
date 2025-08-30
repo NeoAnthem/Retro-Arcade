@@ -1,6 +1,6 @@
 # 🎮 Retro Arcade — A Classic Pixel-Inspired Landing Page  
 
-Welcome to **Retro Arcade**, a nostalgic pixel-themed landing page designed with pure **HTML, CSS, and JavaScript**.  
+Welcome to **Retro Arcade**, a nostalgic pixel-themed landing page designed with pure **HTML & CSS**.  
 Inspired by 80s arcade vibes, it features **retro animations, pixel fonts, neon glow effects, and game-inspired sections**.  
 
 👉 **Live Demo:** [Retro Arcade](https://neoanthem.github.io/Retro-Arcade/)  
